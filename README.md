@@ -10,9 +10,9 @@ Scikit-learn 0.21
 
 ## 模型
 
-* 逻辑回归Logistic Regression
-* 多层感知机MLP
-* K近邻KNN
+* 逻辑回归 Logistic Regression
+* 多层感知机 MLP
+* K近邻 KNN
 * 支持向量机 SVM
 * 卷积神经网络 CNN
 * 循环神经网络 RNN
