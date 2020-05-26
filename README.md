@@ -1,7 +1,7 @@
 # mnist-classification
 使用多种方法完成MNIST分类任务
 
-Python 3
+Python 3.6
 
 Pytorch 1.0
 
