@@ -25,4 +25,4 @@ Scikit-learn 0.21
 
 见 ```mnistClassification.pdf```
 
-对应的latex源码：* [https://github.com/zhengyima/mnist-classification-latex](https://github.com/zhengyima/mnist-classification-latex) 
+对应的latex源码：[https://github.com/zhengyima/mnist-classification-latex](https://github.com/zhengyima/mnist-classification-latex) 
